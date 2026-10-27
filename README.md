@@ -1,1 +1,2 @@
-"# modern-college-attendance_System_Frontend" 
+cd ../frontend
+   npm run build 
