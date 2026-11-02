@@ -1,3 +1,4 @@
+
 {
   "name": "college-attendance-frontend",
   "version": "6.5.0",
@@ -15,7 +16,6 @@
     "zxing-wasm": "^3.1.5"
   },
   "devDependencies": {
-    "@rolldown/binding-win32-x64-msvc": "^1.2.13",
     "@vitejs/plugin-react": "^6.1.2",
     "vite": "^8.3.4"
   },
