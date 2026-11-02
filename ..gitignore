@@ -12,3 +12,4 @@ frontend/.env
 backend/logs/
 backend/backups/
 backend/uploads/
+.env
